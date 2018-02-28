@@ -1,12 +1,10 @@
 java_cms
 ========
-Ò»Ğ©Éæ¼°µ½µÄ¼¼Êõ
-jsp¡¢filter¡¢servlet¡¢mybatis
-html¡¢css¡¢javascript
-pager-taglib¡¢apache-common-beansµÈ¡£
-ÒÀÀµ×¢Èë¡¢³éÏó¹¤³§¡¢OC¿ª±ÕÔ­ÔòµÈ¡£
-ÃæÏò¶ÔÏó¡¢³éÈ¡»ùÀà¡¢½Ó¿ÚÉè¼ÆµÈ¡£
+ä¸€äº›æ¶‰åŠåˆ°çš„æŠ€æœ¯
+jspã€filterã€servletã€mybatis
+htmlã€cssã€javascript
+pager-taglibã€apache-common-beansç­‰ã€‚
+ä¾èµ–æ³¨å…¥ã€æŠ½è±¡å·¥å‚ã€OCå¼€é—­åŸåˆ™ç­‰ã€‚
+é¢å‘å¯¹è±¡ã€æŠ½å–åŸºç±»ã€æ¥å£è®¾è®¡ç­‰ã€‚
 
 
-Î´Íê³É¹¤×÷£º
-»ùÓÚmarkdown¸ñÊ½µÄÎÄµµËµÃ÷¡£
